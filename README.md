@@ -38,4 +38,3 @@ https://github.com/fernandreu/office-ribbonx-editor
 
 ![image](https://github.com/user-attachments/assets/b996241f-d3b7-4dce-8a5a-f11789d4bfc0)
 
-# Updates are on the way for this tool...Enjoy...!
